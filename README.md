@@ -12,7 +12,8 @@ This repository showcases hands-on cybersecurity work completed through my **hom
 - Created rules for identifying suspicious behavior
 - Analyzed alerts and improved detection accuracy
 
-📄 File: `Kirolos_Shehata Cybersecurity Lab SIEM-Based Detection Using Wazuh.pdf`
+📄 File:  [Kirolos_Shehata Cybersecurity Lab SIEM-Based Detection Using Wazuh.pdf](https://github.com/user-attachments/files/27086628/Kirolos_Shehata.Cybersecurity.Lab.SIEM-Based.Detection.Using.Wazuh.pdf)
+
 
 ---
 
@@ -21,7 +22,8 @@ This repository showcases hands-on cybersecurity work completed through my **hom
 - Performed information gathering and analysis
 - Demonstrated how attackers and analysts leverage open data
 
-📄 File: `OSINT Demo.docx.pdf`
+📄 File: [OSINT Demo.docx.pdf](https://github.com/user-attachments/files/27086634/OSINT.Demo.docx.pdf)
+
 
 ---
 
@@ -31,7 +33,8 @@ This repository showcases hands-on cybersecurity work completed through my **hom
 - Hardened systems based on security benchmarks
 - Documented vulnerabilities and remediation steps
 
-📄 File: `STIG and SCAP Documentation (1).pdf`
+📄 File: [STIG and SCAP Documentation (1) (1).pdf](https://github.com/user-attachments/files/27086637/STIG.and.SCAP.Documentation.1.1.pdf)
+
 
 ---
 
@@ -40,7 +43,8 @@ This repository showcases hands-on cybersecurity work completed through my **hom
 - Simulated network traffic and detected malicious activity
 - Improved rule effectiveness for threat detection
 
-📄 File: `Suricata Rule Demo (1).pdf`
+📄 File: [Suricata Rule Demo (1) (1).pdf](https://github.com/user-attachments/files/27086641/Suricata.Rule.Demo.1.1.pdf)
+
 
 ---
 
@@ -52,6 +56,8 @@ This repository showcases hands-on cybersecurity work completed through my **hom
 - Nessus
 - SCAP Tools
 - Linux Environments
+- Impacket
+- 
 
 ---
 
@@ -76,5 +82,5 @@ This repository reflects my practical learning and continuous effort to build re
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- GitHub: https://github.com/your-username
+- LinkedIn: https://www.linkedin.com/in/kirolos-shehata-16b957320/
+- GitHub: https://github.com/KiroShehata
